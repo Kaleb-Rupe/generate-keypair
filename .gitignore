@@ -1,0 +1,10 @@
+#All of these will be ignored for now.
+#Might add a README.md...
+
+node_modules
+.env
+.log
+.o
+*.md
+
+!README.md
